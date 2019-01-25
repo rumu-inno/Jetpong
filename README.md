@@ -1,9 +1,11 @@
 # Jetpong
-Jetpong  
+電路圖  
+-
 <img src="https://github.com/rumu-inno/Jetpong/blob/master/Jetpong_bb.jpg" /></a>  
 
 
 材料清單  
+-
 1. DF-Robot Bluetooth V3 x1  
 2. YwRobot Rotation Sensor x2  
 3. SERVO SG-5010  x2  
