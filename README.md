@@ -2,7 +2,8 @@
 電路圖  
 -
 <img src="https://github.com/rumu-inno/Jetpong/blob/master/Jetpong_bb.jpg" /></a>  
-
+按鈕1功能: 控制噴座伺服馬達的轉動範圍  
+按鈕2功能: 控制底座伺服馬達的轉動範圍  
 
 材料清單  
 -
